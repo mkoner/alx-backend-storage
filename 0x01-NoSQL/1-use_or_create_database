@@ -1,2 +1,2 @@
 // User or create a db
-user my_db
+use my_db
